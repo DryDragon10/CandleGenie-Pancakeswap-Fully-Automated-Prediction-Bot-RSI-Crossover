@@ -1,8 +1,3 @@
-![predbottest](https://user-images.githubusercontent.com/99803952/154322254-05b82787-adbc-44f4-8251-62d0e53837ea.PNG)
-
-
-![CGWins](https://user-images.githubusercontent.com/99803952/154322105-fd5dac06-ea0f-4ea9-922a-d23ce75f8609.PNG)
-
 I recommend formulating and testing your own strategies with a lower balance before increasing to the amount you want to bet with.
 
 Lower timeframe rsi is the fast line and the higher timeframe rsi is the slow line.
