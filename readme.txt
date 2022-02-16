@@ -1,3 +1,13 @@
+I recommend formulating and testing your own strategies with a lower balance before increasing to the amount you want to bet with.
+
+Lower timeframe rsi is the fast line and the higher timeframe rsi is the slow line.
+
+I personally use the 1m, 3m and 5m for my
+strategies. However, I recommend using a larger timeframe set trend. i.e. (rsi3value > 50) meaning when the higher timeframe rsi is above 50.
+
+RSI > 50 bullish
+RSI < 50 bearish
+
 npm i "input requirements from list individually"
 
 example- npm i taapi
