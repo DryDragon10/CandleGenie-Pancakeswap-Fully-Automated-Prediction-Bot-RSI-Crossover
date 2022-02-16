@@ -29,6 +29,10 @@ tf2 is rsivalue timeframe
 
 and so on
 
+gill out the .env example then rename to .env
+
+feel free to create a new wallet with a small amount to trust functionality
+
 
 node rsicrosspred.js to run
 
