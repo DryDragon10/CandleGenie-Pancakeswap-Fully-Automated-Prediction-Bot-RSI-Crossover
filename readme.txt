@@ -8,6 +8,9 @@ strategies. However, I recommend using a larger timeframe set trend. i.e. (rsi3v
 RSI > 50 bullish
 RSI < 50 bearish
 
+rsi1value > rsi2value
+rsi1value < rsi2value
+
 npm i "input requirements from list individually"
 
 example- npm i taapi
