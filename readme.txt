@@ -1,5 +1,7 @@
 I recommend formulating and testing your own strategies with a lower balance before increasing to the amount you want to bet with.
 
+
+
 Lower timeframe rsi is the fast line and the higher timeframe rsi is the slow line.
 
 I personally use the 1m, 3m and 5m for my
@@ -10,6 +12,13 @@ RSI < 50 bearish
 
 rsi1value > rsi2value
 rsi1value < rsi2value
+
+to disable set bull or bear EntryRule to (x == 1000)
+
+One rsi can be used if needed.
+
+
+
 
 npm i "input requirements from list individually"
 
@@ -23,28 +32,31 @@ npm
 
 apikey from taapi is needed!
 
-to disable set bull or bear EntryRule to (x == 1000)
-
-initial version, many new indicators available soon!!!!!!
-
-If you have errors please contact https://t.me/+JEYl8T1HS-k0NGEx
-
-One rsi can be used if needed.
-
 lower timeframe rsi is known as the fast rsi, this will be the one crossing above or below the rsi2 or rsi3.(slow rsi)
 
 tf1 is rsi1value timeframe
 
 tf2 is rsi2value timeframe
 
-and so on
+
+
+
+
+initial version, many new indicators available soon!!!!!!
+
+If you have errors please contact https://t.me/+JEYl8T1HS-k0NGEx
+
+
 
 fill out the .env example then rename to .env
 
 feel free to create a new wallet with a small amount to trust functionality
 
 
-node rsicrosspred.js to run
+
+node rsicrosspred.js 
+
+this should start after installing dependencies
 
 
 *********************** Start 1 minute or more before next round ************************
