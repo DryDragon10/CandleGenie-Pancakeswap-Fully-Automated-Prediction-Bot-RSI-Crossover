@@ -1,0 +1,4 @@
+taapi
+web3
+graceful-fs
+dot-env
