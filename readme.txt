@@ -25,7 +25,7 @@ lower timeframe rsi is known as the fast rsi, this will be the one crossing abov
 
 tf1 is rsi1value timeframe
 
-tf2 is rsivalue timeframe
+tf2 is rsi2value timeframe
 
 and so on
 
@@ -51,3 +51,4 @@ Each bet will send a small portion to my wallet to allow me to continue to do wh
 sometimes claims glitch! working on a fix!
 
 
+Working on dynamic UI with support for a large amount of indicators!
