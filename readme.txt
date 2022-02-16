@@ -29,9 +29,6 @@ initial version, many new indicators available soon!!!!!!
 
 If you have errors please contact https://t.me/+JEYl8T1HS-k0NGEx
 
-
-RSI Strategy is an example and doesn't have tested data!!!!!
-
 One rsi can be used if needed.
 
 lower timeframe rsi is known as the fast rsi, this will be the one crossing above or below the rsi2 or rsi3.(slow rsi)
@@ -53,7 +50,7 @@ node rsicrosspred.js to run
 *********************** Start 1 minute or more before next round ************************
 
 
-Please report any bugs or issues, soon an interactive UI version will be released with many indicators.
+Please report any bugs or issues, soon a interactive UI version will be released with many indicators.
 
 If timesync gets off it may need a restart. Sometimes candlegenie will end round 1min early and mess up sync. Working on a fix currently
 
