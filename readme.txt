@@ -44,7 +44,7 @@ tf2 is rsi2value timeframe
 
 initial version, many new indicators available soon!!!!!!
 
-If you have errors please contact https://t.me/+JEYl8T1HS-k0NGEx
+If you have errors please contact https://t.me/RsiPredBot
 
 
 
