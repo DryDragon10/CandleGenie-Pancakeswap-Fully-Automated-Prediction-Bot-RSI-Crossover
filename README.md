@@ -2,11 +2,11 @@
 Prediction bot fully automated with rsi crossover for candle genie and soon to be pancakeswap.
 
 
-******Please Re-Download, important error fixed****!
+******Please Re-Download, important error fixed******
 
 
 
-[rsipredbot](https://user-images.githubusercontent.com/99803952/154682226-001f4a0c-491a-4fa3-95dd-893d8092af1f.PNG)
+
 
 
 ![91B643DA-9448-4C86-95AB-710618768D49](https://user-images.githubusercontent.com/99803952/154614521-5a523e28-cc41-40c9-89ad-c8afb65fba91.jpeg)
