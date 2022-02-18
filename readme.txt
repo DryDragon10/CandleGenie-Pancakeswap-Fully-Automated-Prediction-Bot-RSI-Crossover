@@ -1,3 +1,10 @@
+![CGWins](https://user-images.githubusercontent.com/99803952/154414793-aa82b0e0-6654-4dd1-9b51-c9943992498a.PNG)
+Initial release of prediction bot! If you have any issues reach out via telegram if readme doesn't cover your question!
+![predbottest](https://user-images.githubusercontent.com/99803952/154322810-cee7e6cb-8ddd-486d-b81d-17c3e9ffeca8.PNG)
+
+
+
+
 I recommend formulating and testing your own strategies with a lower balance before increasing to the amount you want to bet with.
 
 
