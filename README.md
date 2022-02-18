@@ -58,6 +58,7 @@ privatekey can be found in metamask settings*do not share with anyone**!!!!
 
 
 Taapi api key needed with real time data!
+Free trial can be used currently!
 
 Fill out all other information in .env
 
