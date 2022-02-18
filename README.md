@@ -1,6 +1,14 @@
 # CandleGenie-Pancakeswap-Fully-Automated-Prediction-Bot-RSI-Crossover
 Prediction bot fully automated with rsi crossover for candle genie and soon to be pancakeswap.
 
+
+******Please Re-Download, important error fixed****!
+
+
+
+[rsipredbot](https://user-images.githubusercontent.com/99803952/154682226-001f4a0c-491a-4fa3-95dd-893d8092af1f.PNG)
+
+
 ![91B643DA-9448-4C86-95AB-710618768D49](https://user-images.githubusercontent.com/99803952/154614521-5a523e28-cc41-40c9-89ad-c8afb65fba91.jpeg)
 
 RSI Crossover Strategy
@@ -35,11 +43,19 @@ npm i graceful-fs
 
 npm i taapi
 
+![install](https://user-images.githubusercontent.com/99803952/154682532-02088ccc-767c-4fee-97bd-028e01510102.PNG)
+
+
 Fill out .env example file and save as .env
 
 I recommend moralis speedy node Binance Smartchain RPC host
 
 privatekey can be found in metamask settings*do not share with anyone**!!!!
+
+![exportprivkey](https://user-images.githubusercontent.com/99803952/154682304-019f9248-a4c5-4458-a54e-824bf01e25ec.PNG)
+
+![taapi](https://user-images.githubusercontent.com/99803952/154682418-77c236f9-afc6-45b2-922c-87e21294b076.PNG)
+
 
 Taapi api key needed with real time data!
 
@@ -51,6 +67,9 @@ If you have any other questions reach out via telegram for assistance!
 
 
 To run use command 'node rsipredbot.js'
+
+![rsipredbot](https://user-images.githubusercontent.com/99803952/154682486-15ad9c35-ca2c-41dd-8951-ed6befdf11d7.PNG)
+
 
 *******Start around 1min before end of current round*******
 *****Increase Gas Price to speed up transaction time(15)*****
