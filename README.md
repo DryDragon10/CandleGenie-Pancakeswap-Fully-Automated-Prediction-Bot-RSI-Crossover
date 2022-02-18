@@ -14,8 +14,7 @@ Prediction bot fully automated with rsi crossover for candle genie and soon to b
 
 CandleGenie BNB Price Prediction Game
 
-![476A32A2-A862-4356-99E4-9A42379E2C7A](https://user-images.githubusercontent.com/99803952/154701901-c516eee3-de52-45c0-aca0-9afbc3cef1cd.png)
-
+![7796A065-91EF-4078-A2BC-673AA5BC714A](https://user-images.githubusercontent.com/99803952/154702078-1ade84fd-c49e-4bd2-90ec-511ccb088d63.jpeg)
 
 
 RSI Crossover Strategy
