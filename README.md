@@ -23,7 +23,7 @@ Installation
 
 Download Node and NPM
 
-Use following commands in command terminal(cmd) with terminal router to foler.
+Use following commands in command terminal(cmd) with terminal router to folder.
 
 
 npm i web3
