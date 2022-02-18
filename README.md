@@ -53,3 +53,7 @@ To run use command 'node rsipredbot.js'
 
 *******Start around 1min before end of current round*******
 *****Increase Gas Price to speed up transaction time(15)*****
+
+
+
+Any questions? Feel free to reach out and ask ![BED6E581-90C0-44F5-9021-F0FC1D2F6D3E](https://user-images.githubusercontent.com/99803952/154620308-4e84f43a-4f7b-4e68-8b32-d7c996483296.jpeg)
