@@ -40,6 +40,14 @@ I recommend moralis speedy node Binance Smartchain RPC host
 
 privatekey can be found in metamask settings*do not share with anyone**!!!!
 
+Taapi api key needed with real time data!
+
+Fill out all other information in .env
+
+
+
+If you have any other questions reach out via telegram for assistance!
+
 
 To run use command 'node rsipredbot.js'
 
